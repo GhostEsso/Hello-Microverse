@@ -134,6 +134,7 @@ Copy the linters configuration files to your project by running the following co
 
 
 > npx degit https://github.com/your_user/your_project/linters-config.
+
 This command will copy the linters configuration files from your GitHub repository to your local project.
 
 You can customize linter rules by modifying configuration files (for example, .eslintrc for ESLint or .stylelintrc for stylelint) in your project's root directory.
