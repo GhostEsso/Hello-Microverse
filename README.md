@@ -20,9 +20,7 @@
 # 📖 Hello-Microverse
 
 > Description 
-
 The goal of this project is to set up linters in your HTML and CSS project to improve the quality of your code and help catch errors and potential issues. Linters are tools that let you check your code to make sure it follows coding best practices. By using this project, you will be able to improve the quality of your code and save time by avoiding common mistakes.
-
 
 
 ## 🛠 Built With
@@ -56,7 +54,6 @@ This project was carried out using the following technologies:
 </details>
 
 
-
 ### Key Features
 
 - Configuring and using linters to improve the quality of HTML and CSS code
@@ -66,7 +63,6 @@ This project was carried out using the following technologies:
 
 
 ## 💻 Getting Started 
-
 
 
 ### Prerequisites
@@ -100,7 +96,6 @@ This command will run the linters for your HTML and CSS code and let you know of
 To customize the linter rules, you can modify the linter configuration file (for example, .eslintrc for ESLint or .stylelintrc for stylelint) in the root directory of the project.
 
 These instructions should allow you to configure linters and check the quality of your HTML and CSS code. Feel free to customize these instructions to suit your project, its requirements, and the specific dependencies needed for your linters setup.
-
 
 
 ### Setup
@@ -147,7 +142,6 @@ This command will copy the linters configuration files from your GitHub reposito
 You can customize linter rules by modifying configuration files (for example, .eslintrc for ESLint or .stylelintrc for stylelint) in your project's root directory.
 
 These instructions should allow you to integrate the configuration of linters into your project and check the quality of your HTML and CSS code. Feel free to customize these instructions to suit your project, its requirements, and the specific dependencies needed for your linters setup.
-
 
 
 ### Run tests
@@ -221,7 +215,6 @@ If you have any comments or suggestions to improve this project, do not hesitate
 If you like this project...
 
 
-
 ACKNOWLEDGEMENTS <a name="acknowledgements"></a>
 
 ## 🙏 Acknowledgments 
@@ -233,8 +226,6 @@ His contribution and support have been of great help to me throughout the develo
 Thanks again, NTIHINDUKA ALPHA!
 
 I am grateful for any input and support for this project. If you have contributed to the project and are not on this list, please contact me so I can add you.
-
-
 
 
 ## 📝 License 
