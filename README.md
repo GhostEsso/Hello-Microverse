@@ -59,9 +59,7 @@ GitHub - a software development platform based on Git
 - Ability to automate code quality checking to save time and avoid common mistakes
 
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/GhostEsso/Hello-Microverse/pull/1)
+> Add a link to your deployed project. https://github.com/GhostEsso/Hello-Microverse/pull/1
 
 
 ## 💻 Getting Started 
