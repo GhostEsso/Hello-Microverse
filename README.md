@@ -20,35 +20,38 @@
 # 📖 Hello-Microverse
 
 > Description 
-
 The goal of this project is to set up linters in your HTML and CSS project to improve the quality of your code and help catch errors and potential issues. Linters are tools that let you check your code to make sure it follows coding best practices. By using this project, you will be able to improve the quality of your code and save time by avoiding common mistakes.
 
 
-
-## 🛠 Built With 
-
-This project was carried out using the following tools:
-
-Visual Studio Code - an open source and free code editor
-
-Terminal - a terminal emulator for running commands
-
-GitHub - a software development platform based on Git
-
-ESLint - a JavaScript linter to detect coding errors and potential issues
-
-Stylelint - a CSS linter to detect syntax errors and formatting issues in CSS files
+## 🛠 Built With
 
 
+ This project was carried out using the following tools:
+
+  <ul>
+    <li><a href="">Visual Studio Code - an open source and free code editor</a></li>
+    <li><a href="">Terminal - a terminal emulator for running commands</a></li>
+    <li><a href="">GitHub - a software development platform based on Git</a></li>
+    <li><a href="">ESLint - a JavaScript linter to detect coding errors and potential issues
+</a></li>
+    <li><a href="">Stylelint - a CSS linter to detect syntax errors and formatting issues in CSS files
+</a></li>
+  </ul>
+</details>
 
 
-### Tech Stack
+### Tech Stack <a name="tech-stack"></a>
 
 This project was carried out using the following technologies:
 
-HTML - the standard markup language for creating web pages
-CSS - a style language used to define the presentation of web pages
-GitHub - a software development platform based on Git
+<details>
+<summary>Client</summary>
+  <ul>
+    <li><a href="">HTML - the standard markup language for creating web pages</a></li>
+    <li><a href="">CSS - a style language used to define the presentation of web pages</a></li>
+    <li><a href="">GitHub - a software development platform based on Git</a></li>
+  </ul>
+</details>
 
 
 ### Key Features
@@ -59,11 +62,7 @@ GitHub - a software development platform based on Git
 - Ability to automate code quality checking to save time and avoid common mistakes
 
 
-> Add a link to your deployed project https://github.com/GhostEsso/Hello-Microverse/pull/1
-
-
 ## 💻 Getting Started 
-
 
 
 ### Prerequisites
@@ -99,8 +98,7 @@ To customize the linter rules, you can modify the linter configuration file (for
 These instructions should allow you to configure linters and check the quality of your HTML and CSS code. Feel free to customize these instructions to suit your project, its requirements, and the specific dependencies needed for your linters setup.
 
 
-
-### Setup and Install
+### Setup
 
 Clone this repository to your desired folder:
 
@@ -116,6 +114,10 @@ Node.js (version 12 or higher)
 npm (usually included with Node.js)
 Facility
 Create a new directory where you want to include the linters configuration.
+
+
+### Install
+
 
 Open a terminal and navigate to the directory you just created.
 
@@ -170,6 +172,16 @@ AUTHORS
 
 
 
+## 🔭 Future Features <a name="future-features"></a>
+
+- [1] **Adding new pages or sections to the website**
+- [2] **Integration of a search functionality**
+- [3] **Mise en place d'un système d'authentification et d'autorisation pour les utilisateurs**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
 CONTRIBUTING
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -203,12 +215,11 @@ If you have any comments or suggestions to improve this project, do not hesitate
 If you like this project...
 
 
-
 ACKNOWLEDGEMENTS <a name="acknowledgements"></a>
 
 ## 🙏 Acknowledgments 
 
-I would like to thank NTIHINDUKA ALPHA for his excellent work in revising my README file. His feedback greatly improved the quality and clarity of my project documentation.
+I would like to thank NTIHINDUKA ALPHA, ROBERTSON ARTUR for their excellent work in revising my README file. His feedback greatly improved the quality and clarity of my project documentation.
 
 His contribution and support have been of great help to me throughout the development of this project. I am grateful for his time and expertise.
 
@@ -217,10 +228,26 @@ Thanks again, NTIHINDUKA ALPHA!
 I am grateful for any input and support for this project. If you have contributed to the project and are not on this list, please contact me so I can add you.
 
 
-
-
 ## 📝 License 
 
-This project is [MIT](./LICENSE) licensed.
+MIT License
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+Copyright (c) 2023 GhostEsso
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
