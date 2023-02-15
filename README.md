@@ -30,7 +30,6 @@ The goal of this project is to set up linters in your HTML and CSS project to im
 
 > This project was carried out using the following tools:
 
-<details>
   <ul>
     <li><a href="">Visual Studio Code - an open source and free code editor</a></li>
     <li><a href="">Terminal - a terminal emulator for running commands</a></li>
@@ -227,7 +226,7 @@ ACKNOWLEDGEMENTS <a name="acknowledgements"></a>
 
 ## 🙏 Acknowledgments 
 
-I would like to thank NTIHINDUKA ALPHA for his excellent work in revising my README file. His feedback greatly improved the quality and clarity of my project documentation.
+I would like to thank NTIHINDUKA ALPHA, ROBERTSON ARTUR for their excellent work in revising my README file. His feedback greatly improved the quality and clarity of my project documentation.
 
 His contribution and support have been of great help to me throughout the development of this project. I am grateful for his time and expertise.
 
