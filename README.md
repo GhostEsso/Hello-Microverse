@@ -178,11 +178,11 @@ Contributions are welcome and will be appreciated! If you would like to contribu
 
 Fork this project.
 
-Create a branch for your feature (git checkout -b feature/AmazingFeature).
+Create a branch for your feature > git checkout -b feature/AmazingFeature.
 
-Commit your changes (git commit -m 'Add some AmazingFeature').
+Commit your changes > git commit -m 'Add some AmazingFeature'.
 
-Push your branch (git push origin feature/AmazingFeature).
+Push your branch > git push origin feature/AmazingFeature.
 
 Open a pull request.
 
