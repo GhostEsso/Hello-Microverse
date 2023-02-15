@@ -30,10 +30,15 @@ The goal of this project is to set up linters in your HTML and CSS project to im
 This project was carried out using the following tools:
 
 Visual Studio Code - an open source and free code editor
+
 Terminal - a terminal emulator for running commands
+
 GitHub - a software development platform based on Git
+
 ESLint - a JavaScript linter to detect coding errors and potential issues
+
 Stylelint - a CSS linter to detect syntax errors and formatting issues in CSS files
+
 
 
 
