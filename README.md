@@ -25,7 +25,7 @@ The goal of this project is to set up linters in your HTML and CSS project to im
 
 
 
-## 🛠 Built With 
+## 🛠 Built With
 
 This project was carried out using the following tools:
 
