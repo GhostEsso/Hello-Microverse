@@ -104,9 +104,7 @@ Clone this repository to your desired folder:
   cd my-folder
   git@github.com:GhostEsso/Hello-Microverse.git
 	
-	
-	
-	If you want to use the linters setup in your own project, you can follow these instructions to integrate it into your project.
+If you want to use the linters setup in your own project, you can follow these instructions to integrate it into your project.
 
 Requirements
 To integrate the linters configuration into your project, you must have the following installed on your computer:
