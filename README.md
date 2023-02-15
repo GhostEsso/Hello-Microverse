@@ -228,7 +228,6 @@ Thanks again, NTIHINDUKA ALPHA!
 I am grateful for any input and support for this project. If you have contributed to the project and are not on this list, please contact me so I can add you.
 
 
-
 ## 📝 Licence 
 
-[MIT Licence](LICENCE)
+[MIT Licence](LICENSE)
