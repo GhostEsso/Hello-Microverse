@@ -230,4 +230,4 @@ I am grateful for any input and support for this project. If you have contribute
 
 ## 📝 License 
 
-[MIT License](LICENCE)
+[MIT Licence](LICENCE)
