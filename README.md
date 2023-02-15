@@ -180,7 +180,7 @@ AUTHORS
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [1] **Adding new pages or sections to your website**
+- [1] **Adding new pages or sections to the website**
 - [2] **Integration of a search functionality**
 - [3] **Mise en place d'un système d'authentification et d'autorisation pour les utilisateurs**
 
