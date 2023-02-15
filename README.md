@@ -59,7 +59,7 @@ GitHub - a software development platform based on Git
 - Ability to automate code quality checking to save time and avoid common mistakes
 
 
-> Add a link to your deployed project. https://github.com/GhostEsso/Hello-Microverse/pull/1
+> Add a link to your deployed project https://github.com/GhostEsso/Hello-Microverse/pull/1
 
 
 ## 💻 Getting Started 
@@ -79,18 +79,18 @@ npm (usually included with Node.js)
 - Install
 Clone this GitHub repository to your local machine using the following command(cmd):
 
-cmd : git clone https://github.com/your_user/your_project.git*
+> git clone https://github.com/your_user/your_project.git*
 
 - Open a terminal and navigate to the root directory of the project.
 
 Install dependencies by running the following command(cmd):
 
-cmd : npm install
+> npm install
 
 - Use
 - To run linters and check the quality of your HTML and CSS code, run the following command:
 
-cmd : npm run lint
+> npm run lint
 
 This command will run the linters for your HTML and CSS code and let you know of any issues it finds.
 
@@ -122,18 +122,18 @@ Open a terminal and navigate to the directory you just created.
 Run the following command to initialize your project and create a package.json file:
 
 
-npm init -y
+> npm init -y
 
 Install the linters dependencies by running the following command:
 
 
 
-npm install --save-dev eslint stylelint
+> npm install --save-dev eslint stylelint
 
 Copy the linters configuration files to your project by running the following command:
 
 
-npx degit https://github.com/your_user/your_project/linters-config.
+> npx degit https://github.com/your_user/your_project/linters-config.
 This command will copy the linters configuration files from your GitHub repository to your local project.
 
 You can customize linter rules by modifying configuration files (for example, .eslintrc for ESLint or .stylelintrc for stylelint) in your project's root directory.
@@ -148,12 +148,12 @@ Open a terminal and navigate to your project's root directory.
 Run the following command to run ESLint and check the quality of your HTML code:
 
 
-npx eslint **/*.html
+> npx eslint **/*.html
 
 Run the following command to run stylelint and check the quality of your CSS code:
 
 
-npx stylelint "**/*.css"
+> npx stylelint "**/*.css"
 
 These commands will run the linters and tell you about errors and warnings in your HTML and CSS code.
 
