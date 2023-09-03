@@ -219,11 +219,11 @@ ACKNOWLEDGEMENTS <a name="acknowledgements"></a>
 
 ## 🙏 Acknowledgments 
 
-I would like to thank NTIHINDUKA ALPHA, ROBERTSON ARTUR for their excellent work in revising my README file. His feedback greatly improved the quality and clarity of my project documentation.
+I would like to thank NTIHINDUKA ALPHA, ROBERTSON ARTUR, Felicia G. Awuah for their excellent work in revising my README file. Their feedback greatly improved the quality and clarity of my project documentation.
 
-His contribution and support have been of great help to me throughout the development of this project. I am grateful for his time and expertise.
+Their contribution and support have been of great help to me throughout the development of this project. I am grateful for his time and expertise.
 
-Thanks again, NTIHINDUKA ALPHA!
+Thanks again, NTIHINDUKA ALPHA, ROBERTSON ARTUR, Felicia G. Awuah.
 
 I am grateful for any input and support for this project. If you have contributed to the project and are not on this list, please contact me so I can add you.
 
